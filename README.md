@@ -39,7 +39,13 @@ Setup environment: Proyek ini membutuhkan lingkungan sederhana untuk menjalankan
 
 
 ## Business Dashboard
+Hasil dari analisis dan model prediktif dapat divisualisasikan dalam bentuk dashboard untuk membantu tim HR memantau dan memahami attrition secara real-time. Berikut adalah elemen-elemen yang dapat disertakan dalam dashboard:
 
+- Tren Attrition:
+Distribusi attrition berdasarkan fitur seperti OverTime, MaritalStatus, DistanceFromHOme, Department, BusinessTravel, JobROle, JobSatisfaction dan JobLevel.
+- Feature Importance:
+Visualisasi kontribusi semua fitur dengan berdasarkan status dari attrition.
+- Kemudahan dalam penggunaan Dashboard. [Link Dashboard](https://lookerstudio.google.com/reporting/9adf8a82-dff7-4101-8bb8-26a5aa4b560c)  
 
 ## Conclusion
 
