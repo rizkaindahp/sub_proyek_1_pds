@@ -9,7 +9,7 @@ Perusahaan Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri 
 1. Seberapa tinggi tingkat attrition di perusahaan ini?
 2. Faktor apa saja yang mempengaruhi tingkat attrition rate di perusahaan?
 3. Department dan JobRole apa yang paling tinggi tingkat attrition nya?
-4. Menyediakan business dashboard untuk membantunya memonitoring berbagai faktor tersebut.
+4. Menyediakan business dashboard untuk membantu dalam memonitoring berbagai faktor tersebut.
 
 
 ### Cakupan Proyek
