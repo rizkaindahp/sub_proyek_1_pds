@@ -50,7 +50,7 @@ Visualisasi kontribusi semua fitur dengan berdasarkan status dari attrition.
 ## Conclusion
 1. Dari data yang telah kita analisa, tinggi nya attrition/pengunduran berada di 16.9%. Attrition rate yang melebihi 15% ini sangat berdampak pada perusahaan Jaya Jaya Maju. Angka ini berarti menunjukkan ketidak nyamanan pegawai dalam beberapa faktor.
 2. 5 Faktor yang sangat mempengaruhi atau berkolerasi dengan attrition yaitu OverTime, MaritalStatus, DistanceFromHome, Department, dan JobRole.
-3. Dari data yang sudah kita analisa Department dan JobRole yang paling banyak attrition berada di department *Research & Development* serta JobRole sebagai *Laboratory Technician*.
+3. Dari data yang sudah kita analisa fitur Department dan JobRole yang paling banyak attrition berada di Department *Research & Development* serta JobRole sebagai *Laboratory Technician*.
 4. Tampilan dashboard berikut ini bisa mempermudah HR dalam mengumpulkan, menganalisis, dan memantau data pegawai secara real-time. Dengan dashboard, HR dapat mengambil keputusan berbasis data untuk meningkatkan efisiensi, mengelola tenaga kerja dengan lebih baik, dan mengurangi masalah seperti tingginya attrition rate.
 Bisa di akses melalui [Link Dashboard](https://lookerstudio.google.com/reporting/9adf8a82-dff7-4101-8bb8-26a5aa4b560c) ini. 
 
