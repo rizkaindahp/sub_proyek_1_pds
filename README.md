@@ -2,7 +2,7 @@
 
 ## Business Understanding
 
-Perusahaan Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun 2000. Perusahaan ini memiliki lebih dari 1000 karyawan yang tersebar di seluruh negeri. Dalam beberapa tahun terakhir, perusahaan menghadapi tantangan besar dalam mempertahankan karyawannya. Tingkat attrition rate (tingkat pengunduran diri atau pemutusan hubungan kerja) terus meningkat, melebihi 10%, yang berpotensi mengganggu stabilitas bisnis dan produktivitas perusahaan.
+Perusahaan Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun 2000. Perusahaan ini memiliki lebih dari 1000 pegawai yang tersebar di seluruh negeri. Dalam beberapa tahun terakhir, perusahaan menghadapi tantangan besar dalam mempertahankan pegawainya. Tingkat attrition rate (tingkat pengunduran diri atau pemutusan hubungan kerja) terus meningkat, melebihi 10%, yang berpotensi mengganggu stabilitas bisnis dan produktivitas perusahaan.
 
 
 ### Permasalahan Bisnis
@@ -17,7 +17,7 @@ Proyek ini akan berfokus pada:
 - Analisis Data: Mengidentifikasi pola dan faktor utama yang memengaruhi attrition rate.
 - Pemodelan Prediktif: Membangun model machine learning untuk memprediksi potensi attrition.
 - Business Dashboard: Membuat dashboard interaktif untuk membantu HR dalam monitoring faktor-faktor attrition secara real-time.
-- Rekomendasi Strategis: Memberikan insight dan rekomendasi bagi HR untuk mengurangi turnover karyawan.
+- Rekomendasi Strategis: Memberikan insight dan rekomendasi bagi HR untuk mengurangi turnover pegawai.
 
 
 ### Persiapan
@@ -48,14 +48,18 @@ Visualisasi kontribusi semua fitur dengan berdasarkan status dari attrition.
 - Kemudahan dalam penggunaan Dashboard. [Link Dashboard](https://lookerstudio.google.com/reporting/9adf8a82-dff7-4101-8bb8-26a5aa4b560c)  
 
 ## Conclusion
-1. Dari data yang telah kita analisa, tinggi nya attrition/pengunduran berada di 16.9%. Attrition rate yang melebihi 15% ini sangat berdampak pada perusahaan Jaya Jaya Maju. Angka ini berarti menunjukkan ketidak nyamanan karyawan dalam beberapa faktor.
+1. Dari data yang telah kita analisa, tinggi nya attrition/pengunduran berada di 16.9%. Attrition rate yang melebihi 15% ini sangat berdampak pada perusahaan Jaya Jaya Maju. Angka ini berarti menunjukkan ketidak nyamanan pegawai dalam beberapa faktor.
 2. 5 Faktor yang sangat mempengaruhi atau berkolerasi dengan attrition yaitu OverTime, MaritalStatus, DistanceFromHome, Department, dan JobRole.
 3. Dari data yang sudah kita analisa Department dan JobRole yang paling banyak attrition berada di department *Research & Development* serta JobRole sebagai *Laboratory Technician*.
-4. Tampilan dashboard berikut ini bisa mempermudah HR dalam mengumpulkan, menganalisis, dan memantau data karyawan secara real-time. Dengan dashboard, HR dapat mengambil keputusan berbasis data untuk meningkatkan efisiensi, mengelola tenaga kerja dengan lebih baik, dan mengurangi masalah seperti tingginya attrition rate.
+4. Tampilan dashboard berikut ini bisa mempermudah HR dalam mengumpulkan, menganalisis, dan memantau data pegawai secara real-time. Dengan dashboard, HR dapat mengambil keputusan berbasis data untuk meningkatkan efisiensi, mengelola tenaga kerja dengan lebih baik, dan mengurangi masalah seperti tingginya attrition rate.
 Bisa di akses melalui [Link Dashboard](https://lookerstudio.google.com/reporting/9adf8a82-dff7-4101-8bb8-26a5aa4b560c) ini. 
 
 
-
 ### Rekomendasi Action Items (Optional)
+1. Mengevaluasi lingkungan pekerjaan pada Departemen atau JobRole yang memiliki tingkat attrition yang tinggi guna meningkatkan kepuasan pegawai.
+2. Kurangi jumlah lembur dengan mengoptimalkan beban kerja dan tenaga kerja.
+3. Memberikan kemudahan akses ke kantor dengan opsi remote work (WFH) atau subsidi transportasi.
+4. Beri kesempatan pengembangan karier kepada pegawai.
+5. Perbaiki jalur karier dan kesejahteraan pegawai dalam JobRole tertentu agar mereka lebih loyal.
 
 
