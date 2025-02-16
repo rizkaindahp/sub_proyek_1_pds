@@ -36,6 +36,11 @@ Setup environment: Proyek ini membutuhkan lingkungan sederhana untuk menjalankan
     conda activate myenv #MacOS
     conda activate myenv  # Windows
     ```
+- Running predict
+    - Masukkan data pegawai yang diperiksa ke dalam kamus data
+    ```
+    python prediction.py
+    ```
 
 
 ## Business Dashboard
