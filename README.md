@@ -6,9 +6,9 @@ Perusahaan Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri 
 
 
 ### Permasalahan Bisnis
-1. Berapa persen attrition rate yang terjadi di perusahaan ini.
-2. Faktor apa saja yang mempengaruhi tingkat attrition rate di perusahaan.
-3. Department apa yang paling banyak tingkat attrition/pengunduran diri karyawan dan JobRole nya
+1. Seberapa tinggi tingkat attrition di perusahaan ini?
+2. Faktor apa saja yang mempengaruhi tingkat attrition rate di perusahaan?
+3. Department dan JobRole apa yang paling tinggi tingkat attrition nya?
 4. Menyediakan business dashboard untuk membantunya memonitoring berbagai faktor tersebut.
 
 
@@ -42,12 +42,17 @@ Setup environment: Proyek ini membutuhkan lingkungan sederhana untuk menjalankan
 Hasil dari analisis dan model prediktif dapat divisualisasikan dalam bentuk dashboard untuk membantu tim HR memantau dan memahami attrition secara real-time. Berikut adalah elemen-elemen yang dapat disertakan dalam dashboard:
 
 - Tren Attrition:
-Distribusi attrition berdasarkan fitur seperti OverTime, MaritalStatus, DistanceFromHOme, Department, BusinessTravel, JobROle, JobSatisfaction dan JobLevel.
+Distribusi attrition berdasarkan fitur seperti OverTime, MaritalStatus, DistanceFromHOme, Department, BusinessTravel, JobRole, JobSatisfaction dan JobLevel.
 - Feature Importance:
 Visualisasi kontribusi semua fitur dengan berdasarkan status dari attrition.
 - Kemudahan dalam penggunaan Dashboard. [Link Dashboard](https://lookerstudio.google.com/reporting/9adf8a82-dff7-4101-8bb8-26a5aa4b560c)  
 
 ## Conclusion
+1. Dari data yang telah kita analisa, tinggi nya attrition/pengunduran berada di 16.9%. Attrition rate yang melebihi 15% ini sangat berdampak pada perusahaan Jaya Jaya Maju. Angka ini berarti menunjukkan ketidak nyamanan karyawan dalam beberapa faktor.
+2. 5 Faktor yang sangat mempengaruhi atau berkolerasi dengan attrition yaitu OverTime, MaritalStatus, DistanceFromHome, Department, dan JobRole.
+3. Dari data yang sudah kita analisa Department dan JobRole yang paling banyak attrition berada di department *Research & Development* serta JobRole sebagai *Laboratory Technician*.
+4. Tampilan dashboard berikut ini bisa mempermudah HR dalam mengumpulkan, menganalisis, dan memantau data karyawan secara real-time. Dengan dashboard, HR dapat mengambil keputusan berbasis data untuk meningkatkan efisiensi, mengelola tenaga kerja dengan lebih baik, dan mengurangi masalah seperti tingginya attrition rate.
+Bisa di akses melalui [Link Dashboard](https://lookerstudio.google.com/reporting/9adf8a82-dff7-4101-8bb8-26a5aa4b560c) ini. 
 
 
 
